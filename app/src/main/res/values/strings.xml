@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes Compose App</string>
+    <string name="main_screen_route">MainScreen</string>
+    <string name="details_screen_route">DetailsScreen</string>
+    <string name="recent_notes_title_top_bar">Recent Notes</string>
+    <string name="edit_note_title_top_bar">Edit Note</string>
+    <string name="type_something_txt">Type smth..</string>
+</resources>
